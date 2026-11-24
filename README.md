@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:30363d&height=190&section=header&text=Hugo&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=a.k.a.%20swqt%20%20%C2%B7%20%20DRAG%20Team&descSize=18&descAlignY=58" width="100%" alt="Misael, a.k.a. swqt. DRAG Team" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:30363d&height=190&section=header&text=Misael&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=a.k.a.%20swqt%20%20%C2%B7%20%20DRAG%20Team&descSize=18&descAlignY=58" width="100%" alt="Misael, a.k.a. swqt. DRAG Team" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=18&pause=1800&color=8B949E&center=true&vCenter=true&width=640&height=36&lines=General+Operations;Finance;Technical+Support;Technology+Development" alt="General Operations, Finance, Technical Support, Technology Development" />
 
