@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:30363d&height=190&section=header&text=Hugo&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=a.k.a.%20swqt%20%20%C2%B7%20%20DRAG%20Team&descSize=18&descAlignY=58" width="100%" alt="Hugo, a.k.a. swqt. DRAG Team" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:30363d&height=190&section=header&text=Hugo&fontColor=ffffff&fontSize=60&fontAlignY=36&desc=a.k.a.%20swqt%20%20%C2%B7%20%20DRAG%20Team&descSize=18&descAlignY=58" width="100%" alt="Misael, a.k.a. swqt. DRAG Team" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=500&size=18&pause=1800&color=8B949E&center=true&vCenter=true&width=640&height=36&lines=General+Operations;Finance;Technical+Support;Technology+Development" alt="General Operations, Finance, Technical Support, Technology Development" />
 
@@ -14,7 +14,7 @@
 
 ## About me
 
-I'm Hugo, also known as **swqt**. I live in California and I'm part of the **[DRAG](https://drag.team)** team, where I work on general operations: finance, technical support and technology development. I contribute wherever the team needs me, from the day-to-day work to the systems behind it.
+I'm Misael, also known as **swqt**. I live in California and I'm part of the **[DRAG](https://drag.team)** team, where I work on general operations: finance, technical support and technology development. I contribute wherever the team needs me, from the day-to-day work to the systems behind it.
 
 <p align="center"><em>"I'm disciplined about what I set out to do. When I commit to a goal, I see it through."</em></p>
 
@@ -88,7 +88,7 @@ I'm Hugo, also known as **swqt**. I live in California and I'm part of the **[DR
 
 ## Sobre mí
 
-Soy Hugo, también conocido como **swqt**. Vivo en California y formo parte del equipo **[DRAG](https://drag.team)**, donde trabajo en la parte operativa general: finanzas, soporte técnico y desarrollo tecnológico. Contribuyo donde el equipo me necesita, desde el trabajo diario hasta los sistemas que lo sostienen.
+Soy Misael, también conocido como **swqt**. Vivo en California y formo parte del equipo **[DRAG](https://drag.team)**, donde trabajo en la parte operativa general: finanzas, soporte técnico y desarrollo tecnológico. Contribuyo donde el equipo me necesita, desde el trabajo diario hasta los sistemas que lo sostienen.
 
 <p align="center"><em>"Soy disciplinado con lo que me propongo. Cuando me fijo una meta, la cumplo."</em></p>
 
